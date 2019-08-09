@@ -1,1 +1,1 @@
-https://img.shields.io/npm/v/@mergautam/ionicai?label=%40mergautam%2Fionicai
+<img alt="npm" src="https://img.shields.io/npm/v/@mergautam/ionicai?label=%40mergautam%2Fionicai">
